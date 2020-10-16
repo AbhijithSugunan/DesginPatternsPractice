@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/C#/StratergyPattern/StratergyPattern/StratergyPattern/bin/Debug/netcoreapp3.1
+/C#/StratergyPattern/StratergyPattern/.vs/StratergyPattern/v16/.suo
+/C#/StratergyPattern/StratergyPattern/StratergyPattern/obj
